@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ProductGenericCacheApp.Server.props" />
+</Project>

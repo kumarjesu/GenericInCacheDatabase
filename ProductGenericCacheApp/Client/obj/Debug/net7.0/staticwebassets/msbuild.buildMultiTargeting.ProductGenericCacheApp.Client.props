@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProductGenericCacheApp.Client.props" />
+</Project>
